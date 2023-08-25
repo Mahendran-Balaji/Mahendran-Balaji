@@ -1,7 +1,7 @@
 
 # Hi, I'm Mahendran! 👋
 
-I'm mahendran, a senior backend developer based in coimbatore, India.
+I'm mahendran, a senior software developer based in coimbatore, India.
 
 ## 🛠 Skills
 Laravel, Lumen, MySQL, MongoDB, Wordpress, RESTFul API, HTML 5, CSS 3, JQuery, Bootstrap CSS, Tailwind CSS
