@@ -10,4 +10,4 @@ Laravel, Lumen, MySQL, MongoDB, PostgreSQL, Wordpress, RESTFul API, HTML 5, CSS 
 Hanlde VPS Server Management, Cloud Hosting
 
 ## 🛠 Email 
-Hanlde Google Workspace (Gsuite)
+Hanlde Google Workspace (Gsuite), ZOHO WorkDrive
