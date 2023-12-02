@@ -7,6 +7,10 @@ I'm mahendran, a senior software developer based in coimbatore, India.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mahendran-Balaji" alt="Mahendran-Balaji" /></a> </p>
 
+<p align="left">
+  - 📫 Reach me : <a href="mailto:bmahedranmca@gmail.com">bmahedranmca@gmail.com</a>
+</p>
+
 ## 🛠 Skills
 <p align="left"> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
