@@ -71,8 +71,13 @@ I'm mahendran, a senior software developer based in coimbatore, India.
 
 </p>
 
-## 🛠 Packagist
+## 🛠 Packagist and Google Chrome Extension
 <a href="https://packagist.org/packages/mahendran/" target="_blank"><img width="48" height="48" title="bmahendranmca" src="https://www.gravatar.com/avatar/efb82c99b7e124653874344d5fa48703?s=48&amp;d=identicon" srcset="https://www.gravatar.com/avatar/efb82c99b7e124653874344d5fa48703?s=96&amp;d=identicon 2x"></a>
+
+
+<a href="https://chromewebstore.google.com/detail/binance-exchange-btcusdt/imhkoobjomcpacnobbepjiikflbogced?hl=en" target="_blank"><img width="48" height="48" title="bmahendranmca" src="https://www.gravatar.com/avatar/efb82c99b7e124653874344d5fa48703?s=48&amp;d=identicon" srcset="https://www.gravatar.com/avatar/efb82c99b7e124653874344d5fa48703?s=96&amp;d=identicon 2x"></a>
+
+
 
 ## 🛠 Hosting
 Hanlde VPS Server Management, Cloud Hosting
