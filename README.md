@@ -14,7 +14,7 @@ I'm mahendran, a senior software developer based in coimbatore, India.
 ## 🛠 Skills
 <p align="left"> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-      <img alt="laravel" width="60" height="60" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" />
+      <img alt="laravel" width="100" height="60" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" />
   </a> 
   <span>&nbsp;</span>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-left:10px"> 
