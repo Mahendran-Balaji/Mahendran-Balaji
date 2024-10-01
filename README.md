@@ -21,10 +21,6 @@ I'm mahendran, a senior software developer based in coimbatore, India.
       <img alt="MySQL" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   </a>
   <span>&nbsp;</span>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin-left:10px"> 
-      <img alt="Mongodb" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  </a>
-  <span>&nbsp;</span>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="margin-left:10px"> 
       <img alt="postgresql" width="60" height="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   </a>
