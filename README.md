@@ -11,7 +11,7 @@ I'm mahendran, a senior software developer based in coimbatore, India.
   - 📫 Reach me : <a href="mailto:bmahedranmca@gmail.com">bmahedranmca@gmail.com</a>
 </p>
 
-## 🛠 Skills
+# 🛠 Skills
 <p align="left"> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
       <img alt="laravel" width="100" height="60" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" />
@@ -67,7 +67,7 @@ I'm mahendran, a senior software developer based in coimbatore, India.
 
 </p>
 
-## 🛠 Packagist and Google Chrome Extension
+# 🛠 Packagist and Google Chrome Extension
 <p align="left">
 <a href="https://packagist.org/packages/mahendran/" target="_blank" rel="noreferrer">
   <img width="48" height="48" title="View My Laravel Packages" src="https://www.gravatar.com/avatar/efb82c99b7e124653874344d5fa48703?s=48&amp;d=identicon" srcset="https://www.gravatar.com/avatar/efb82c99b7e124653874344d5fa48703?s=96&amp;d=identicon 2x">
@@ -80,13 +80,13 @@ I'm mahendran, a senior software developer based in coimbatore, India.
 </p>
 
 
-## 🛠 Hosting
+# 🛠 Web Hosting
 Hanlde VPS Server Management, Cloud Hosting
 
-## 🛠 Email 
+# 🛠 Email 
 Hanlde Google Workspace (Gsuite), ZOHO WorkDrive
 
-## 🛠 Most Used Language & Github Stats
+# 🛠 Most Used Language & Github Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahendran-Balaji&show_icons=true&locale=en&layout=compact" alt="Mahendran-Balaji" /></p>
 
