@@ -15,9 +15,7 @@ I'm currently learning Node JS (MERN Stack)
 
 # 🛠 Skills
 <p align="left"> 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-      <img alt="laravel" width="100" height="60" src="https://camo.githubusercontent.com/38086051fc58dca4e0848ca323d7a90f4b92c36fa1bef492ab7dc0b97adaed99/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d3163686e64476462787932494d4234717a46786637424a6a5a53556f6658376b4e" />
-  </a> 
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/38086051fc58dca4e0848ca323d7a90f4b92c36fa1bef492ab7dc0b97adaed99/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d3163686e64476462787932494d4234717a46786637424a6a5a53556f6658376b4e"><img height="40" width="40" alt="laravel" src="https://camo.githubusercontent.com/38086051fc58dca4e0848ca323d7a90f4b92c36fa1bef492ab7dc0b97adaed99/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d3163686e64476462787932494d4234717a46786637424a6a5a53556f6658376b4e" data-canonical-src="https://drive.google.com/uc?id=1chndGdbxy2IMB4qzFxf7BJjZSUofX7kN" style="max-width: 100%;"> 
   <span>&nbsp;</span>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-left:10px"> 
       <img alt="MySQL" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
