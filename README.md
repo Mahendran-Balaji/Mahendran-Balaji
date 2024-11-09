@@ -3,6 +3,8 @@
 
 I'm mahendran, a senior software developer based in coimbatore, India.
 
+I'm currently learning Node JS (MERN Stack) 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahendran-Balaji&label=Profile%20views&color=0e75b6&style=flat" alt="Mahendran-Balaji" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mahendran-Balaji" alt="Mahendran-Balaji" /></a> </p>
@@ -14,7 +16,7 @@ I'm mahendran, a senior software developer based in coimbatore, India.
 # 🛠 Skills
 <p align="left"> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-      <img alt="laravel" width="100" height="60" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" />
+      <img alt="laravel" width="100" height="60" src="https://camo.githubusercontent.com/38086051fc58dca4e0848ca323d7a90f4b92c36fa1bef492ab7dc0b97adaed99/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d3163686e64476462787932494d4234717a46786637424a6a5a53556f6658376b4e" />
   </a> 
   <span>&nbsp;</span>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-left:10px"> 
