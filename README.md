@@ -3,7 +3,7 @@
 
 I'm mahendran, a senior software developer based in coimbatore, India.
 
-I'm currently learning Node JS (MERN Stack) 
+I'm currently learning Python 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahendran-Balaji&label=Profile%20views&color=0e75b6&style=flat" alt="Mahendran-Balaji" /> </p>
 
