@@ -1,5 +1,5 @@
 # Hi, I'm Mahendran 👋  
-### Senior Software Developer | Backend & Server Engineer
+### Senior Software Developer | Freelancer
 
 📍 Coimbatore, India  
 📧 bmahedranmca@gmail.com  
@@ -13,7 +13,6 @@ Senior Software Developer with hands-on experience in building, deploying, and m
 - Strong focus on **backend development**
 - Experienced in **VPS & production server management**
 - Open-source contributor (Laravel Packages)
-- Currently learning **Python**
 
 ---
 
